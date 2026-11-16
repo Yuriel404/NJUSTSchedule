@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "groups": [
+    {
+      "title": "校园服务",
+      "icon": "account_balance",
+      "links": [
+        {
+          "title": "南京理工大学/官网",
+          "url": "https://www.njust.edu.cn/"
+        },
+        {
+          "title": "南京理工大学/统一身份认证平台",
+          "url": "https://ehall2.njust.edu.cn/"
+        },
+        {
+          "title": "南京理工大学/研究生院",
+          "url": "https://gs.njust.edu.cn/"
+        },
+        {
+          "title": "南京理工大学/教务处",
+          "url": "https://jwc.njust.edu.cn/"
+        },
+        {
+          "title": "南京理工大学/图书馆",
+          "url": "https://lib.njust.edu.cn/"
+        },
+        {
+          "title": "南京理工大学/WebVPN",
+          "url": "https://webvpn.njust.edu.cn/"
+        },
+        {
+          "title": "校园网认证服务",
+          "url": "https://m.njust.edu.cn"
+        },
+        {
+          "title": "南京理工大学/学校邮箱",
+          "url": "https://mail.njust.edu.cn/"
+        },
+        {
+          "title": "南京理工大学/缴费平台",
+          "url": "https://cwcmh.njust.edu.cn/payment/pay/payment.jsp"
+        },
+        {
+          "title": "南京理工大学/智慧团委",
+          "url": "https://zhtw.njust.edu.cn/"
+        },
+        {
+          "title": "南京理工大学/XSpace",
+          "url": "https://xspace.njust.edu.cn/main.htm"
+        },
+        {
+          "title": "江阴宿舍洗澡预约（第三方精简版）",
+          "url": "https://yuezao.org/"
+        }
+      ]
+    },
+    {
+      "title": "考试与证书",
+      "icon": "fact_check",
+      "links": [
+        {
+          "title": "计算机等级考试报名&准考证",
+          "url": "https://ncre.neea.edu.cn/"
+        },
+        {
+          "title": "计算机等级考试成绩",
+          "url": "https://cjcx.neea.edu.cn/html1/folder/22014/5476-1.htm"
+        },
+        {
+          "title": "普通话成绩",
+          "url": "http://www.cltt.org/studentscore"
+        },
+        {
+          "title": "CCF计算机专业资格认证",
+          "url": "https://cspro.org/"
+        }
+      ],
+      "subgroup": {
+        "title": "全国大学英语四六级（CET）",
+        "links": [
+          {
+            "title": "四六级报名",
+            "url": "http://cet-bm.neea.edu.cn/"
+          },
+          {
+            "title": "四六级准考证打印",
+            "url": "https://cet-bm.neea.edu.cn/",
+            "guide": "cetTicket"
+          },
+          {
+            "title": "四六级成绩",
+            "url": "http://cet.neea.edu.cn/cet/"
+          }
+        ]
+      }
+    },
+    {
+      "title": "学习与资源",
+      "icon": "menu_book",
+      "links": [
+        {
+          "title": "超星学习通",
+          "url": "http://i.mooc.chaoxing.com/space/index"
+        },
+        {
+          "title": "中国大学MOOC",
+          "url": "https://www.icourse163.org/"
+        },
+        {
+          "title": "NJUST开放知识库",
+          "url": "https://njust.wiki/"
+        },
+        {
+          "title": "南京理工大学生存手册",
+          "url": "https://manual.njust.wiki"
+        },
+        {
+          "title": "梨课程官网",
+          "url": "https://m.njust.store"
+        }
+      ]
+    }
+  ]
+}
