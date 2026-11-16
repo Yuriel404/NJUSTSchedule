@@ -1,3 +1,6 @@
 {
-  "baiduNetdisk": false
+  "baiduNetdisk": false,
+  "baiduPromo": true,
+  "baiduPromoText": "百度网盘学生SVIP卡仅需158/年",
+  "baiduPromoUrl": "https://pan.baidu.com/comps/view/MV8xMDg5XzEzNDlfNTUxMV9vbmxpbmU=?executerefresh=1&active_svip=1y_auto&activetab=svip&from=shequn&activity_id=132686988468&ext=%7B%22bcode%22%3A%2283393974a85e117381303273a45e1d7d8133337fa257167783383374a25b1573803f3177a05f1c7685%22%7D"
 }
