@@ -1,0 +1,12 @@
+{
+  "schema": "njust-schedule/semester-dates/v1",
+  "updatedAt": "2026-11-16",
+  "note": "同一份文件包含全部学期的开学日期。term 用教务系统下拉框的取值（xnxq01id，例如 2026-2027-1）；startDate 为该学期第 1 周周一的日期。尚未确认的学期请省略，App 会自动向教务教学周历查询。",
+  "semesters": [
+    {
+      "term": "2026-2027-1",
+      "name": "2026-2027 学年第 1 学期",
+      "startDate": "2026-08-24"
+    }
+  ]
+}
